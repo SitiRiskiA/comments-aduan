@@ -97,4 +97,5 @@ $db['default'] = array(
 	'save_queries' => TRUE
 );
 
+$db['default']['autoinit'] = FALSE;
 
