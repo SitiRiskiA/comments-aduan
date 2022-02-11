@@ -27,7 +27,7 @@
                 <li class="nav-item dropdown hidden-caret">
                     <a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false">
                         <div class="avatar-sm">
-                            <span class="avatar-title bg-danger rounded-circle border border-white text-light" style="font-weight: bold;">K
+                            <span class="avatar-title bg-danger rounded-circle border border-white text-light" style="font-weight: bold;">A
                             </span>
                         </div>
                     </a>

@@ -9,7 +9,7 @@
     <?php $this->load->view('templates/global-css'); ?>
 </head>
 <body>
-    <div class="wrapper sidebar_minimize">
+    <div class="wrapper">
         <!-- Header -->
         <?php $this->load->view('templates/header'); ?>
         <!-- End header -->

@@ -75,7 +75,7 @@
 			try{
 				$findData = $this->ModelPengaduan->getData([
 					'aduan_id' => $this->input->post("aduan_id")
-				]);
+				])->result();
 				if(count($findData) > 0){
 					$path = "./uploads/".$findData[0]->aduan_gambar;
 					if(file_exists($path)){

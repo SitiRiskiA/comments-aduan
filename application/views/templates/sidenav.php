@@ -3,7 +3,7 @@
         <div class="sidebar-content">
             <div class="user">
                 <div class="avatar-sm float-left mr-2">
-                    <span class="avatar-title bg-danger rounded-circle border border-white text-light" style="font-weight: bold;">K
+                    <span class="avatar-title bg-danger rounded-circle border border-white text-light" style="font-weight: bold;">A
                     </span>
                 </div>
                 <div class="info">
